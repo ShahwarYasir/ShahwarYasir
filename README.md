@@ -102,21 +102,16 @@ class DureShahwar:
 
 ## 🔬 What I Work On
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  🧠  AI / ML Pipelines    →  End-to-end model training,  ║
-║                               deployment & evaluation     ║
-╠══════════════════════════════════════════════════════════╣
-║  👁️  Computer Vision      →  Object detection, image     ║
-║                               segmentation, real-time CV  ║
-╠══════════════════════════════════════════════════════════╣
-║  🤖  AI Agents            →  Autonomous agents, tool-use, ║
-║                               multi-agent systems (LLMs)  ║
-╠══════════════════════════════════════════════════════════╣
-║  🌐  Web + AI Integration →  Full-stack apps powered by  ║
-║                               intelligent backends         ║
-╚══════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| | Area | What I Build |
+|---|---|---|
+| 🧠 | **AI / ML Pipelines** | End-to-end model training, deployment & evaluation |
+| 👁️ | **Computer Vision** | Object detection, image segmentation, real-time CV |
+| 🤖 | **AI Agents** | Autonomous agents, tool-use, multi-agent systems |
+| 🌐 | **Web + AI Integration** | Full-stack apps powered by intelligent backends |
+
+</div>
 
 ---
 
