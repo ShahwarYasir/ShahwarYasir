@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=200&section=header&text=Dur-e-Shahwar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20ML%20Student%20%7C%20Computer%20Vision%20%7C%20Agentic%20Systems&descSize=16&descAlignY=68" width="100%"/>
+```
+██████╗ ██╗   ██╗██████╗       ███████╗    ███████╗██╗  ██╗ █████╗ ██╗  ██╗██╗    ██╗ █████╗ ██████╗
+██╔══██╗██║   ██║██╔══██╗      ██╔════╝    ██╔════╝██║  ██║██╔══██╗██║  ██║██║    ██║██╔══██╗██╔══██╗
+██║  ██║██║   ██║██████╔╝█████╗█████╗      ███████╗███████║███████║███████║██║ █╗ ██║███████║██████╔╝
+██║  ██║██║   ██║██╔══██╗╚════╝██╔══╝      ╚════██║██╔══██║██╔══██║██╔══██║██║███╗██║██╔══██║██╔══██╗
+██████╔╝╚██████╔╝██║  ██║      ███████╗    ███████║██║  ██║██║  ██║██║  ██║╚███╔███╔╝██║  ██║██║  ██║
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝      ╚══════╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Third-year+BS+AI+student;Building+multimodal+and+agentic+systems;Learning+by+building+and+recreating+papers)](https://git.io/typing-svg)
 
@@ -33,21 +40,21 @@ Hi, I'm Dur-e-Shahwar, a third-year BS Artificial Intelligence student at COMSAT
 
 ## Tech Stack
 
-![Python](https://skillicons.dev/icons?i=python,pytorch,fastapi,git,github,vscode)
-![Tools](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ShahwarYasir&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahwarYasir&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=ShahwarYasir&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/ShahwarYasir?style=for-the-badge&logo=github&color=6a11cb)
+![Repos](https://img.shields.io/badge/Public_Repos-YOUR_NUMBER-2c5364?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=ShahwarYasir&style=for-the-badge&color=6a11cb)
 
 </div>
 
@@ -58,5 +65,3 @@ Hi, I'm Dur-e-Shahwar, a third-year BS Artificial Intelligence student at COMSAT
 ## Let's Connect
 
 Open to collaborations, research projects, and internships. Reach out on LinkedIn or by email.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
